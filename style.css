@@ -1,0 +1,35 @@
+* {
+    background-color: blanchedalmond;
+    margin: 20px;
+}
+div{
+    margin: 20px;
+}
+
+/*Globals */
+html{
+    font-family: 'Courier New', Courier, monospace;
+}
+/* Layout */
+
+header, main, footer{
+    border: 5px solid blueviolet;
+    height: 100px;
+}
+
+header{
+    height: 20vh;
+}
+header >nav header>div{
+    border: 3px solid red;
+    height: 10vh;
+    color: brown;
+    
+}
+heih
+main{
+    height: 100vh;
+}
+footer{
+    height: 50vh;
+}
